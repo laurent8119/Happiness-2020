@@ -1,4 +1,5 @@
-![imagen](https://www.pexels.com/es-es/foto/primer-plano-de-globo-335393/)
+<img src="https://github.com/laurent8119/Happiness-2020/blob/main/github_readme.jpg" width="600" height="400" />
+
 # Happiness-2020  
 
 2020 seems to be long ago but the Covid-19 pandemic is still not over in 2022. Do you wonder what was the happiest country back in 2020??  
