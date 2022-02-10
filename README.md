@@ -1,4 +1,4 @@
-<img src="https://github.com/laurent8119/Happiness-2020/blob/main/github_readme.jpg" width="600" height="400" />
+<img src="https://github.com/laurent8119/Happiness-2020/blob/main/github_readme.jpg" width="500" />
 
 # Happiness-2020  
 
