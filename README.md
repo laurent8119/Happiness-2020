@@ -1,6 +1,6 @@
 <img src="https://github.com/laurent8119/Happiness-2020/blob/main/github_readme.jpg" width="500" />
 
-# Happiness-2020  
+# EDA Happiness 2020  
 
 2020 seems to be long ago but the Covid-19 pandemic is still not over in 2022. Do you wonder what was the happiest country in the world back in 2020??  
 
