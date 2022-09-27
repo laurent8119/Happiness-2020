@@ -1,4 +1,4 @@
-
+<img src="https://github.com/laurent8119/Happiness-2020/blob/main/github_readme.jpg" width="500" />
 
 # EDA Happiness 2020  
 
